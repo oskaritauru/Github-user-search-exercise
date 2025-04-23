@@ -1,12 +1,26 @@
-# React + Vite
+# Github User Search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Github User Search project on FreeCodeCamp](https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/).
 
-Currently, two official plugins are available:
+### Built with
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Semantic HTML5 markup
+- CSS custom properties
+- React
 
-## Expanding the ESLint configuration
+### Screenshot
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![github-user](images/github-user.png)
+
+### What I learned
+
+- HTML and CSS Skills
+- React Usage
+- Component-Based Development
+- State and Props
+- React Hooks, such as useState and useEffect
+- State Management
+- API Integration
+- User Interface Design
+- Debugging and Problem-Solving
+- Code Organization
